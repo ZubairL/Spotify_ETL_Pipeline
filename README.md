@@ -1,6 +1,6 @@
 
-# Spotify_ETL_Pipeline with AWS
-## Spotify Data Pipeline: Extract, Transform, Load, Analyze
+## END-TO-END Data Engineering Spotify_ETL_Pipeline Project with AWS
+### Spotify Data Pipeline: Extract, Transform, Load, Analyze
 
 Building a data pipeline using the Spotify API and AWS Services allows you to extract data from Spotify and process it efficiently. 
 ###### 
